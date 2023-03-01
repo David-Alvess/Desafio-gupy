@@ -9,7 +9,7 @@ public class Main {
 
         for (int i = string.length(); i>0; i--){
             char letra = string.charAt(i-1);
-            System.out.println(letra);
+            System.out.print(letra);
         }
     }
 }
